@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-JANGWoojin123",
-  "commit": "b6cdb0c411606ab554ddd128a64bdc78b9a13be6",
-  "score": 31,
+  "commit": "a7b8f06173041fbb598994938d97b9314c717375",
+  "score": 32,
   "totalScore": 110,
   "exercises": [
     {
@@ -226,9 +226,9 @@
     {
       "name": "structs2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "structs3",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "JANGWoojin123",
-  "runId": "37104620276",
+  "runId": "37105681217",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
