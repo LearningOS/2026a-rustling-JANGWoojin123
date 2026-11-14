@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-JANGWoojin123",
-  "commit": "65ff1ea4d84b7ecd810f5ecd6e9bf4d06025dfda",
-  "score": 54,
+  "commit": "e28bd6093e95025648293cc9b395cbe209bf9a33",
+  "score": 55,
   "totalScore": 110,
   "exercises": [
     {
@@ -345,9 +345,9 @@
     {
       "name": "options2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options3",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "JANGWoojin123",
-  "runId": "43599881329",
+  "runId": "43601399727",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
